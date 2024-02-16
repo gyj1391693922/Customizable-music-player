@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>uiSource/stop.png</file>
+        <file>uiSource/start.png</file>
+        <file>uiSource/quick.png</file>
+        <file>uiSource/back.png</file>
+        <file>uiSource/sy.png</file>
+        <file>uiSource/source.png</file>
+    </qresource>
+</RCC>
